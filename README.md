@@ -6,3 +6,5 @@ Contributed to this repository besides me:
 
   + [José Leite](https://github.com/joseleite19)
   + [Luís Felipe](https://github.com/luisfbgs)
+
+Obs: the development environment was the [Mars](http://courses.missouristate.edu/KenVollmar/mars/) simulator.
